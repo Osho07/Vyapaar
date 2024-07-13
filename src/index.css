@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: url('./org.webp') no-repeat center center fixed;
+  background-size: cover;
+}
+
+.bg-content {
+  background-color: rgba(255, 255, 255, 0.75);
+  padding: 1rem;
+}
